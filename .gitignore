@@ -1,0 +1,6 @@
+*.gz
+*ubyte
+*.mat
+*.bz2
+*.npz
+*.npy
